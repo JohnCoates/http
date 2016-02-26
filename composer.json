@@ -1,5 +1,5 @@
 {
-    "name": "johncoates/patricklouys/http",
+    "name": "patricklouys/http",
     "description": "HTTP Component",
     "keywords": ["http", "request", "response"],
     "license": "MIT",
